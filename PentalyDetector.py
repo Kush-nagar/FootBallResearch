@@ -189,12 +189,12 @@ def process_penalty(video_path, goal_region):
     # Pass club ID to chatbot
     if goal_result == "Miss!":
         print(f"\nPassing ID ({club_id}) to soccerbot...")
-        import RecommendationBot as RecommendationBot
-        RecommendationBot.main(club_id)
+        import RecommendationEngine as RecommendationEngine
+        RecommendationEngine.main(club_id)
 
 
 # Example usage
-video_path = "ManUMiss.mp4"
+video_path = "Enter a video path"
 goal_region = (200, 100, 200, 100)  # Adjust coordinates based on video resolution
 
 process_penalty(video_path, goal_region)
