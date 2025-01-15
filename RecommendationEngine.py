@@ -2,7 +2,7 @@ import json
 import csv
 from openai import OpenAI
 
-api_key = "API-KEY here"
+api_key = "Insert API-KEY here"
 
 client = OpenAI(api_key=api_key)
 
