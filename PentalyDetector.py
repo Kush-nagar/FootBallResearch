@@ -164,8 +164,7 @@ def process_penalty(video_path, goal_region):
     final_class_name = class_names[highest_mean_index].strip()
     final_confidence_score = mean_confidence_scores[highest_mean_index]
 
-    #print("\nPenalty Result:", goal_result)
-    print("Penalty Result: MISS!")
+    print("\nPenalty Result:", goal_result)
     print("Final Class:", final_class_name)
     #print("Mean Confidence Score:", f"{final_confidence_score:.2%}")
     print(f"Field Type: {field_type}")
@@ -188,9 +187,10 @@ def process_penalty(video_path, goal_region):
         return
 
     # Pass club ID to chatbot
-    print(f"\nPassing ID ({club_id}) to soccerbot...")
-    import RecommendationBot as RecommendationBot
-    RecommendationBot.main(club_id)
+    if goal_result == "Miss!":
+        print(f"\nPassing ID ({club_id}) to soccerbot...")
+        import RecommendationBot as RecommendationBot
+        RecommendationBot.main(club_id)
 
 
 # Example usage
