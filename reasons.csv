@@ -1,0 +1,51 @@
+id,category,reason
+1,Psychological Factors (Mental and Emotional State),"Pressure of the Moment: The fear of letting down teammates, fans, or coaches can cause overthinking and mistakes."
+2,Psychological Factors (Mental and Emotional State),Fear of Failure: Worrying about missing might result in a lack of confidence and hesitant execution.
+3,Psychological Factors (Mental and Emotional State),"Overconfidence: Underestimating the importance of focus, assuming the shot is ""easy,"" can lead to carelessness."
+4,Psychological Factors (Mental and Emotional State),"Focus Distraction: Thoughts unrelated to the game (e.g., personal issues) can reduce concentration during the kick."
+5,Psychological Factors (Mental and Emotional State),Stress from Expectations: High-profile players might feel overwhelmed by media or fan pressure to succeed.
+6,Psychological Factors (Mental and Emotional State),"Decision Paralysis: Overanalyzing whether to shoot left, right, or center can lead to a last-minute error."
+7,Psychological Factors (Mental and Emotional State),"Emotional Instability: Playing after a recent emotional event (e.g., a family problem) can disrupt mental clarity."
+8,Psychological Factors (Mental and Emotional State),Poor Mental Preparation: A lack of practice in handling high-pressure situations can affect performance.
+9,Psychological Factors (Mental and Emotional State),"Fear of Injury Recurrence: A recently healed injury may lead to cautious, less confident execution."
+10,Psychological Factors (Mental and Emotional State),Overthinking the Goalkeeper?s Movements: Trying to predict the goalkeeper?s dive can lead to rushed or poor decisions.
+11,Physical Factors (Heath and Fitness),Fatigue: Playing for a long time before the penalty can result in weaker or imprecise kicks.
+12,Physical Factors (Heath and Fitness),Injury Recovery: Lingering pain or limited mobility from a past injury may compromise performance.
+13,Physical Factors (Heath and Fitness),Cramping: Sudden muscle cramps during the kick can disrupt execution.
+14,Physical Factors (Heath and Fitness),Poor Warm-Up: Insufficient muscle preparation before the game can lead to stiffness and poor shots.
+15,Physical Factors (Heath and Fitness),Lack of Strength: Poor lower-body conditioning can reduce shot power.
+16,Physical Factors (Heath and Fitness),Muscle Imbalance: A dominant leg with insufficient support from the other can affect balance during the shot.
+17,Physical Factors (Heath and Fitness),Breathing Issues: Poor oxygen intake under stress may impact physical and mental coordination.
+18,Physical Factors (Heath and Fitness),Dehydration: A dehydrated player may struggle with focus and physical precision.
+19,Physical Factors (Heath and Fitness),Illness or Sickness: Feeling under the weather can limit focus and physical output.
+20,Physical Factors (Heath and Fitness),Overtraining: Excessive training without recovery can lead to physical burnout and mistakes.
+21,Technical Factors (Skill and Execution),Improper Foot Placement: A misaligned planting foot can send the ball off-target.
+22,Technical Factors (Skill and Execution),Leaning Back: Leaning too far back during the kick often results in the ball going too high.
+23,Technical Factors (Skill and Execution),Poor Ball Contact: Striking the ball too low or off-center affects its power and direction.
+24,Technical Factors (Skill and Execution),Weak Follow-Through: Failing to follow through with the kick reduces shot accuracy and power.
+25,Technical Factors (Skill and Execution),Lack of Spin Control: Misjudging how much spin to apply can make the ball swerve off course.
+26,Technical Factors (Skill and Execution),Predictable Placement: Repeatedly aiming for the same corner can allow goalkeepers to anticipate the shot.
+27,Technical Factors (Skill and Execution),Inconsistent Stutter Steps: Changing pace mid-run-up can result in loss of momentum or control.
+28,Technical Factors (Skill and Execution),Shot Too Close to the Goalkeeper: Poor placement gives the goalkeeper an easy save opportunity.
+29,Technical Factors (Skill and Execution),Inadequate Shot Power: A lack of power makes it easier for the goalkeeper to react and save the ball.
+30,Technical Factors (Skill and Execution),Last-Second Change of Mind: Abruptly deciding to alter the shot?s direction can result in mis-hits.
+31,Environmental Factors ,Wind: Strong winds can alter the ball?s flight path or unbalance the player during the kick.
+32,Environmental Factors ,Rain or Wet Ground: Slippery surfaces can cause the player to lose footing during the run-up or strike.
+33,Environmental Factors ,Cold Weather: Cold muscles can reduce flexibility and precision.
+34,Environmental Factors ,Poor Field Conditions: Uneven ground may cause the ball to roll unpredictably during the kick.
+35,Environmental Factors ,Blinding Sunlight: Facing the sun may obstruct the player?s view of the goal.
+36,Environmental Factors ,"Crowd Noise: A loud, hostile crowd can disrupt focus and increase stress."
+37,Environmental Factors ,Unfamiliar Stadium Conditions: Being unaccustomed to the venue can affect comfort and execution.
+38,Environmental Factors ,Shadows on the Field: Inconsistent lighting may make it harder to gauge the ball?s position or goal alignment.
+39,Environmental Factors ,Distractions from Opponents: Opposing players might try to unsettle the kicker through gestures or comments.
+40,Environmental Factors ,Unpredictable Ball Movement: Poor-quality balls or unexpected movements during flight may disrupt accuracy.
+41,External Factors (Beyond the Game),"Personal Life Stress: Family issues, relationship troubles, or financial worries can affect mental clarity."
+42,External Factors (Beyond the Game),Economic Challenges: Players dealing with financial instability might feel additional stress during high-pressure moments.
+43,External Factors (Beyond the Game),Political or Social Tensions: External socio-political unrest may distract players mentally.
+44,External Factors (Beyond the Game),Recent Bad News: Learning of an upsetting event before the game can reduce focus and composure.
+45,External Factors (Beyond the Game),Media Pressure: Negative media coverage or controversies involving the player may weigh heavily on their mind.
+46,External Factors (Beyond the Game),Poor Team Morale: Internal conflicts within the team can lower confidence and focus during critical moments.
+47,External Factors (Beyond the Game),"Referee?s Controversial Decision: If the penalty was awarded under disputed circumstances, the player might feel extra pressure to justify it."
+48,External Factors (Beyond the Game),Unfair Scheduling: Fatigue from a tight match schedule may contribute to mental and physical exhaustion.
+49,External Factors (Beyond the Game),Coach?s Poor Decision: Being asked to take the penalty despite lacking confidence or preparation can lead to mistakes.
+50,External Factors (Beyond the Game),"Societal Expectations: In countries where soccer is a cultural obsession, fear of public backlash for missing can lead to crippling anxiety."
