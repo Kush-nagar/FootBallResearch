@@ -9,10 +9,10 @@ print(tf.__version__)
 np.set_printoptions(suppress=True)
 
 # Load the model
-model = load_model("C:\\Coding\\FootballDataset\\keras_model.h5", compile=False)
+model = load_model("path to the keras model", compile=False)
 
 # Load the labels
-class_names = open("C:\\Coding\\FootballDataset\\labels.txt", "r").readlines()
+class_names = open("path to the label file", "r").readlines()
 
 isGoal = False
 
